@@ -99,3 +99,77 @@ html {
   top: 7px;
   box-shadow: none;
 }
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.img-profil{
+  width: 100px;
+  height: 150px;
+}
+
+.profil{
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
+.nama{
+  border: 1px solid;
+  background-color: #20b2aa;
+  color: white;
+  border-radius: 20px;
+  padding-top: 5px;
+  width: 200px;
+  height: 25px;
+  margin-left: 20px;
+}
+
+.icon{
+  float: left;
+  color: white;
+  padding-top: 10px;
+  width: 30px;
+  height: 25px;
+  margin-left: 20px;
+  font-size: 12px;
+}
+
+.text{
+  border: 1px solid #20b2aa;
+  color: white;
+  padding-top: 10px;
+  width: 200px;
+  height: 25px;
+  margin-left: 20px;
+  color: #20b2aa;
+  font-size: 10px;
+}
+
+.cake{
+  background-color: #ffd700;
+  border: 1px solid #ffd700;
+}
+
+.home{
+  background-color: #0000ff;
+  border: 1px solid #0000ff;
+}
+
+.whatsapp{
+  background-color: #00ff00;
+  border: 1px solid #00ff00;
+}
+
+.envelope{
+  background-color: #ff0000;
+  border: 1px solid #ff0000;
+}
+
+.hobi{
+  background-color: #800080;
+  border: 1px solid #800080;
+}
